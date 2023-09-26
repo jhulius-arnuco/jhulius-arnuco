@@ -1,11 +1,11 @@
 ## Welcome to My Data Analytics Portfolio!
 
-Hello there! 👋 I'm Jhulius Arnuco, a passionate data analyst with a keen interest in deriving meaningful insights from data. With a strong foundation in Excel, Power BI, and SQL, I love turning raw data into actionable information that drives business decisions.
+Hello there! 👋 I'm Jhulius Arnuco, a data analyst who recently made a career shift to the world of data analytics. With a strong foundation in Excel, Power BI, and SQL, I'm passionate about leveraging data to uncover valuable insights.
 
 ## About Me
 
 - 🎓 I hold a degree in Materials Science and Engineering from Mapua University.
-- 💼 Currently, I am [mention your current role or status].
+- 💼 Before transitioning into data analytics, I have 5 years of professional experience in sales and real estate.
 - 🌱 I'm constantly learning and exploring new techniques to enhance my data analytics skills.
 
 ## Skills
