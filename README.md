@@ -1,4 +1,4 @@
-### Welcome to My Data Analytics Portfolio!
+## Welcome to My Data Analytics Portfolio!
 
 Hello there! 👋 I'm Jhulius Arnuco, a passionate data analyst with a keen interest in deriving meaningful insights from data. With a strong foundation in Excel, Power BI, and SQL, I love turning raw data into actionable information that drives business decisions.
 
