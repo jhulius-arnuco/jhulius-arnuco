@@ -16,8 +16,8 @@ Hello there! 👋 I'm Jhulius Arnuco, a data analyst who recently made a career 
 
 ## Let's Connect!
 
-- 🔗 https://www.linkedin.com/in/jhulius-arnuco-92039a293/
-- ✉️ jhuliusarnuco@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jhulius-arnuco-92039a293/)
+- ✉️ [Email](jhuliusarnuco@gmail.com)
 
 Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or discuss data analytics! 📊
 
