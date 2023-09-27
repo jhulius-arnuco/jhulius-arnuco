@@ -2,7 +2,7 @@
 
 Hello there! 👋 I'm Jhulius, and I recently made a career shift to the world of data analytics.
 
-You can find the summary of my projects [here](https://github.com/jhulius-arnuco/Portfolio-Guide).
+You can find the summary of my projects [here](https://github.com/jhulius-arnuco/Portfolio-Summary).
 
 ## About Me
 
