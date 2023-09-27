@@ -2,6 +2,8 @@
 
 Hello there! 👋 I'm Jhulius Arnuco, a data analyst who recently made a career shift to the world of data analytics. With a strong foundation in Excel, Power BI, and SQL, I'm passionate about leveraging data to uncover valuable insights.
 
+If you're interested in a summary of my projects, you can find it [here](https://github.com/jhulius-arnuco/Portfolio-Guide).
+
 ## About Me
 
 - 🎓 I hold a degree in Materials Science and Engineering from Mapua University.
