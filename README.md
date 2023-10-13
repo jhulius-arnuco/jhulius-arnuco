@@ -12,9 +12,9 @@ You can find the summary of my projects [here](https://github.com/jhulius-arnuco
 
 ## Skills
 
-- **Excel**: Proficient in data cleaning, analysis, and visualization.
-- **Power BI**: Experienced in creating interactive dashboards and reports.
-- **SQL**: Skilled in querying and manipulating data for deeper insights.
+- **Excel**: Data cleaning, analysis, and visualization.
+- **Power BI**: Creating interactive dashboards and reports.
+- **SQL**: Querying and manipulating data for deeper insights.
 
 ## Let's Connect!
 
